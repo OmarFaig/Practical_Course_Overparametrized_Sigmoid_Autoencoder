@@ -1,1 +1,1 @@
-# Practical_Course_Overparametrized_Sigmoid_Autoencoder
+#Associative Memory in Iterated Overparameterized Sigmoid Autoencoders
